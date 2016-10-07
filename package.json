@@ -1,6 +1,6 @@
 {
   "name": "undotpath",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Destructure deeply nested structures",
   "main": "undotpath.js",
   "scripts": {
