@@ -1,0 +1,28 @@
+{
+  "name": "undotpath",
+  "version": "0.0.1",
+  "description": "Destructure deeply nested structures",
+  "main": "undotpath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rxseger/undotpath.git"
+  },
+  "keywords": [
+    "dots",
+    "destructure",
+    "nest",
+    "dotpath-object-create"
+  ],
+  "author": "rxseger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rxseger/undotpath/issues"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "homepage": "https://github.com/rxseger/undotpath#readme"
+}
